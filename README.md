@@ -56,7 +56,7 @@ The script generates two figures. Figure 1 shows the rolling correlation between
 After executing the script, it generates metrics for each fund, including drawdown details and an AI-generated financial news article. Here's a sample output:
 
 ```shell
-Metrics for  IVV
+Metrics for IVV
 Peak to trough days:  3071 days 00:00:00
 Trough to recovery days:  5201 days 00:00:00
 Max drawdown:  -0.5650870249291784
